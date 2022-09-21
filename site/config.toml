@@ -4,6 +4,7 @@ title = 'VRacer'
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
+publishdir = ".."
 math = false          # enable KaTeX (https://katex.org/) globally
 
 [params]
