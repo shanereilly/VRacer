@@ -16,13 +16,16 @@
 : luongbt@mail.uc.edu
 : github.com/bluong1998
 : linkedin.com/in/binh-luong-005453208
-Delectus voluptatem quam eligendi recusandae sequi cumque nemo. Optio non officiis in voluptate eos architecto. Omnis quia consequuntur reprehenderit a repellat numquam possimus.
-Sed placeat at ducimus atque consectetur possimus animi. Nostrum ut vero nesciunt amet. Nihil quaerat ut minima impedit. Eum in consequatur deleniti.
-Shane Reilly : Cincinnati, OH
+Binh is a fifth year Computer Engineering student at the University of Cincinnati. Shane Reilly : Cincinnati, OH
 : reillysp@mail.uc.edu
 : github.com/shanereilly
 : linkedin.com/in/shanepreilly
-Selectus voluptatem quam eligendi recusandae sequi cumque nemo.</description>
+Shane is a fifth year Computer Science major at the University of Cincinnati.
+Ryan Richter : Cincinnati, OH
+: richterw@mail.uc.edu
+: github.com/ryanrichter
+: linkedin.com/in/ryan-richter0/
+Ryan is a fifth year Computer Engineering student at the University of Cincinnati.</description>
     </item>
     
     <item>
@@ -31,9 +34,8 @@ Selectus voluptatem quam eligendi recusandae sequi cumque nemo.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://shanereilly.github.io/VRacer/project/</guid>
-      <description>Blah Delectus voluptatem quam eligendi recusandae sequi cumque nemo. Optio non officiis in voluptate eos architecto. Omnis quia consequuntur reprehenderit a repellat numquam possimus.
-Sed placeat at ducimus atque consectetur possimus animi. Nostrum ut vero nesciunt amet. Nihil quaerat ut minima impedit. Eum in consequatur deleniti.
-Blah2 Delectus voluptatem quam eligendi recusandae sequi cumque nemo. Optio non officiis in voluptate eos architecto. Omnis quia consequuntur reprehenderit a repellat numquam possimus.</description>
+      <description>About VRacer is a remote-controlled vehicle that is manipulated with the use of a virtual reality (VR) glove.
+Motivation Controlling a vehicle remotely is often awkward and clunky. Traditional joystick-based methods of control involve a steep learning curve. The use of a VR glove will allow the user to control the vehicle in a far more precise and intuitive fashion. In addition, the glove will provide haptic feedback to the user, resulting in a more immersive experience.</description>
     </item>
     
   </channel>

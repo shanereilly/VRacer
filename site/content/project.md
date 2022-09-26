@@ -2,17 +2,8 @@
 title = "Project"
 +++
 
-## Blah
-Delectus voluptatem quam eligendi recusandae sequi cumque nemo. Optio non officiis in voluptate eos architecto. Omnis quia consequuntur reprehenderit a repellat numquam possimus.
+## About
+VRacer is a remote-controlled vehicle that is manipulated with the use of a virtual reality (VR) glove. 
 
-Sed placeat at ducimus atque consectetur possimus animi. Nostrum ut vero nesciunt amet. Nihil quaerat ut minima impedit. Eum in consequatur deleniti.
-
-## Blah2
-Delectus voluptatem quam eligendi recusandae sequi cumque nemo. Optio non officiis in voluptate eos architecto. Omnis quia consequuntur reprehenderit a repellat numquam possimus.
-
-Sed placeat at ducimus atque consectetur possimus animi. Nostrum ut vero nesciunt amet. Nihil quaerat ut minima impedit. Eum in consequatur deleniti.
-
-## Blah3
-Delectus voluptatem quam eligendi recusandae sequi cumque nemo. Optio non officiis in voluptate eos architecto. Omnis quia consequuntur reprehenderit a repellat numquam possimus.
-
-Sed placeat at ducimus atque consectetur possimus animi. Nostrum ut vero nesciunt amet. Nihil quaerat ut minima impedit. Eum in consequatur deleniti.
+## Motivation
+Controlling a vehicle remotely is often awkward and clunky. Traditional joystick-based methods of control involve a steep learning curve. The use of a VR glove will allow the user to control the vehicle in a far more precise and intuitive fashion. In addition, the glove will provide haptic feedback to the user, resulting in a more immersive experience. 
