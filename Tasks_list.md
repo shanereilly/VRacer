@@ -1,0 +1,16 @@
+# Tasks List
+- Design 3D VR gloves - Binh Luong
+- Assemble 3D VR gloves - Binh Luong
+- Research how to build RC car - Jack Riley
+- Research how to connect VR gloves with RC car - Hao Truong
+- uild a receiver for RC car - Shane Reilly 
+- Create list of potential hand gestures for controlling RC car - Ryan Ritcher
+- Design 360 camera for RC car - Binh Luong
+- Design a receiver for camera and VR google - Shane Reilly
+- Design a suspension system for smoother drive - Jack Riley
+- Configure haptic sensors for VR gloves - Hao Truong
+- Configure hand gestures base on trials - Ryan Ritcher
+- Document proper use of gloves and RC car - Ryan Ritcher
+- Conduct tests of vehicle - Jack Riley
+- Conduct tests of gloves - Binh Luong
+- Conduct tests of communication protocol - Shane Reilly
