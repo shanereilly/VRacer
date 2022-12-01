@@ -120,8 +120,10 @@ Something involving web and app development in general.
  
     
 ## Budget
-expenses to date or statement that there have not been any.
-show monetary value of donated items and donation sources.
+| Quantity | Part | Price | Total |
+| 3 | DEERC DE45 RC Car | 29.99 | 89.97 |
+| 1 | NRF24L01+PA+LNA Wireless Transceiver Module | 13.99 | 13.99 |
+ 
 ## Appendix
 include appropriate references, citations, links to code repositories, and meeting notes.
 there should be evidence justifying 45 hours of effort for each team member.
