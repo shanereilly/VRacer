@@ -3,12 +3,19 @@
 Team Advisor: Dr. Jillian Aurisano  
 Binh Luong, Shane Reilly, Ryan Richter, Jack Riley, Hao Truong  
 ## Project Abstract (limit of 400 ascii chars)
-…
+
 ## Project Description
-…
+Create a RC car that is controlled by VR hand gloves
+The goal is to be able to control the car through hand gestures (forward, backward, turn)
+If the goal is met before the deadline, further additions can be added, such as building a 360 degree camera and linking the glove with a VR headset
+
 ## User Stories and Design Diagrams
 ### User Stories 
-
+- As a recon team member, I want to be able to clear a building or room silently without risking my team member or my life
+- As a military officer, I want the RC car to have a stable connection, so that we can limit the risks of a dangerous operation
+- As a troop without piloting or video game experience, I want the RC car to be controlled using a VR glove, so that I can learn quickly through natural motions
+- As a field-based operator, I want the RC car to be very quiet if not silent, so that I am not exposed though noise when the car is scouting
+- As a task force leader, I want the car to be able to cover rough terrain, so that I can use it in many different environments
 ### Design Diagrams
 
 Level 1  
@@ -31,11 +38,83 @@ Description of the Diagrams: including conventions and a brief description of th
 
 ## Project Tasks and Timeline
 Task List
+-Understand communication protocols between controller and RC car
+-Build VR gloves that convert hand gesture input to car movements output
+-Add haptic to VR gloves for better feeling/control to RC car
+-Create a transmitter for VR gloves to transmit input to RC car
+-Create a received to receive input from VR gloves on RC car
+-Test RC car
+-Add 360-degree camera on RC car
+-Connect camera to VR goggle
+-Test camera
 Timeline
-Effort Matrix
+
+| Task | Assignee | Start  |  Complete | 
+|-------------------------------------------------------------------------|---------------|------------|------------|
+| Design 3D VR gloves                                                     | Binh Luong    | 10/1/2022  | 11/10/2022 |
+| Assemble 3D VR gloves                                                   | Binh Luong    | 11/10/2022 | 11/25/2022 |
+| Research how to build RC car                                            | Jack Riley    | 10/1/2022  | 10/25/2022 |
+| Build the RC car                                                        | Jack Riley    | 10/25/2022 | 11/10/2022 |
+| Conduct tests of vehicle                                                | Jack Riley    | 11/10/2022 | 12/1/2022  |
+| Research how to connect VR gloves with RC car                           | Hao Truong    | 10/1/2022  | 11/20/2022 |
+| Create a transmitter for VR gloves to transmit input to RC car          |               |            |            |
+| Build a receiver for RC car                                             | Shane Reilly  | 10/1/2022  | 11/20/2022 |
+| Understand communication protocols between controller and RC car        |               |            |            |
+| Create a received to receive input from VR gloves on RC car             |               |            |            |
+| Conduct tests of communication protocol                                 | Shane Reilly  | 11/20/2022 | 12/15/2022 |
+| Create list of potential hand gestures for controlling RC car           | Ryan Ritcher  | 10/1/2022  | 11/20/2022 |
+| Build VR gloves that convert hand gesture input to car movements output |               |            |            |
+| Conduct tests of gloves                                                 | Binh Luong    | 11/25/2022 | 12/15/2022 |
+| Test RC car                                                             |               |            |            |
+| Design 360 camera for RC car                                            | Binh Luong    | 12/15/2022 | 1/1/2022   |
+| Add 360-degree camera on RC car                                         |               |            |            |
+| Design a receiver for camera and VR google                              | Shane Reilly  | 12/15/2022 | 1/1/2023   |
+| Connect camera to VR goggle                                             |               |            |            |
+| Test camera control                                                     | Ryan Ritcher  | 11/20/2022 | 12/1/2022  |
+| Test camera                                                             |               |            |            |
+| Design a suspension system for smoother drive                           | Jack Riley    | 12/1/2022  | 1/1/2023   |
+| Configure haptic sensors for VR gloves                                  | Hao Truong    | 11/20/2022 | 12/20/2022 |
+| Add haptic to VR gloves for better feeling/control to RC car            |               |            |            |
+| Configure hand gestures base on trials                                  | Ryan Ritcher  | 12/1/2022  | 12/20/2022 |
+| Document proper use of gloves and RC car                                | Ryan Ritcher  | 12/20/2022 | 1/15/2023  |
+
+![Effort Matrix](effortMatrix.png)
 ## ABET Concerns Essay (optional)
 ## PPT Slideshow (includes ABET Concerns)
 ## Self-Assessment Essays
+### Hao Truong
+For senior design project, me and my team decided to make a RC car that we can
+controlled through VR hand gloves. Instead of using joystick on the usual controller, we can use
+hand gestures to control the car. Further along the road, we want to be able to build a 360 camera
+on the car and link it to VR headset. This will allow user to see what is in front of the car. As
+computer science major, I mostly learn about algorithm and data structures of a computer. I want
+to have a project that challenge me and more hand-on than learning it through books.
+I learned about operating system, data structures, algorithms to write better code. It was
+great to learn about how computer work. But I did not get to do a lot of practice or any project
+that have a real-life value. I think not a lot of what I learned during my first three years is useful
+for me to find a job at entry level. The last two years are better because I had a chance to pick
+what class I want to take as elective. Most of the elective classes for 4th and 5th year requires
+more hand-on and critical thinking. I think it is very useful. This project will be a good
+opportunity for me to learn more about new technologies that I did not get to learn during many
+classes I have taken.
+I did all my co-ops at Fox Sports Cincinnati. At the first three co-op semesters, I worked
+mostly with designing test cases for Fox Sports website. I think this will help a lot during testing
+the project. I learned more about edge cases and small details that would affect user experience. I
+spent my last two co-ops as software developer for backend team who supports data for Fox
+Sports front end. I learned a lot about writing better, cleaner code. Since I will be working with
+my teammates for the project, I think it is a good practice to keep the code base clean and easy to
+read.
+I think this project will be very interesting to work on because it is challenging to do. If
+we can control a RC car with a hand gesture, that would open up many applications. It would be
+a nice entertaining device. Moreover, we can use the same technology to design special vehicle
+for emergency where we will able to reach many location where we could not reach before. I am
+excited to work on this project, because I have never done development on VR. So I think it will
+be a great experience.
+My role in the project would be heavily focused on making connection between the RC
+car and VR hand gloves. Our first approach is using Bluetooth, it would work great at close
+range but would not work if the car goes out of range. We are planning on using maybe a Wi-Fi
+hotspot, which could provide a better range but the tradeoff is higher latency. If I can create a
+way to connect them together, I think I would do a good job at that point.
 ## Professional Biographies
 ### Shane Reilly
  
