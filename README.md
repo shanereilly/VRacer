@@ -1,7 +1,7 @@
 # VRacer
 ## Team members
-Team Advisor: Dr. Jillian Aurisano
-Binh Luong, Shane Reilly, Ryan Richter, Jack Riley, Hao Truong
+Team Advisor: Dr. Jillian Aurisano  
+Binh Luong, Shane Reilly, Ryan Richter, Jack Riley, Hao Truong  
 ## Project Abstract (limit of 400 ascii chars)
 …
 ## Project Description
