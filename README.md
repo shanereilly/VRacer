@@ -121,6 +121,7 @@ Something involving web and app development in general.
     
 ## Budget
 | Quantity | Part | Price | Total |
+| :------: | :--: | :----:| :---: |
 | 3 | DEERC DE45 RC Car | 29.99 | 89.97 |
 | 1 | NRF24L01+PA+LNA Wireless Transceiver Module | 13.99 | 13.99 |
  
