@@ -101,8 +101,8 @@ I am interested in anything related to the Computer Engineering field, whether i
  
  
 #### Contact
-truonganhhao26@gmail.com
-513-668-0093
+- truonganhhao26@gmail.com
+- 513-668-0093
   
 ***
  
