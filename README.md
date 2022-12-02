@@ -39,15 +39,15 @@ Description of the Diagrams: including conventions and a brief description of th
 
 ## Project Tasks and Timeline
 Task List
--Understand communication protocols between controller and RC car
--Build VR gloves that convert hand gesture input to car movements output
--Add haptic to VR gloves for better feeling/control to RC car
--Create a transmitter for VR gloves to transmit input to RC car
--Create a received to receive input from VR gloves on RC car
--Test RC car
--Add 360-degree camera on RC car
--Connect camera to VR goggle
--Test camera
+- Understand communication protocols between controller and RC car
+- Build VR gloves that convert hand gesture input to car movements output
+- Add haptic to VR gloves for better feeling/control to RC car
+- Create a transmitter for VR gloves to transmit input to RC car
+- Create a received to receive input from VR gloves on RC car
+- Test RC car
+- Add 360-degree camera on RC car
+- Connect camera to VR goggle
+- Test camera
 Timeline
 
 | Task | Assignee | Start  |  Complete | 
