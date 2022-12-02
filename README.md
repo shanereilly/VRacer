@@ -126,6 +126,9 @@ way to connect them together, I think I would do a good job at that point.
 ### Binh Luong
 [luongbt Capstone Assessment.pdf](https://github.com/shanereilly/VRacer/files/10138077/luongbt.Capstone.Assessment.pdf)
 
+### Ryan Richter
+[IndividualAssessmentRichter.docx](https://github.com/shanereilly/VRacer/blob/490f29a7e984deb6ea4517e96fe67b52da1f7658/Homework_Essays/IndividualAssessmentRichter.docx)
+
 ## Professional Biographies
 ### Shane Reilly
  
