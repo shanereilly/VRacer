@@ -2,7 +2,7 @@
 ## Team members
 Team Advisor: Dr. Jillian Aurisano  
 Binh Luong, Shane Reilly, Ryan Richter, Jack Riley, Hao Truong  
-## Project Abstract (limit of 400 ascii chars)
+## Project Abstract
 VR is a modern technology with a heap of untapped potential. It has been implemented heavily in the medical and entertainment sectors but one place where it has been relatively neglected is the military field. We saw an opening in one particular place that aligned with our groups’ interest, and that was the potential that VR had in coordination with remote vehicles. Remote vehicles are a relatively recent development in military operations, but we believe that its pairing with VR would be particularly useful for reconnaissance and intelligence. Of course, before becoming advanced enough to be used in the military, it must be useful in a practical sense. We aim to build a sort of prototype for a connection between a VR glove and a remote control car. The car will be controlled by hand gestures that will enable the user to take complete control of the car and its movements. We believe that this control scheme will allow for more fluid movement and intuitive control of the car. Further modifications to the design would be a camera attached to the car that allows the user to see the surroundings of the car in real time, and implementing a headset connection with the camera. We believe that this technology can be greatly beneficial in a variety of sectors, not limited to military.
 
 ## Project Description
