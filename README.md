@@ -160,7 +160,7 @@ I am most interested in security research, low level programming, embedded devic
 ### Jack Riley
  
 #### Contact Information
-Email: 'riley2jk@mail.uc.edu'
+Email: `riley2jk@mail.uc.edu`
  
 #### Co-op Work Experience
 Front End Engineering Co-op
