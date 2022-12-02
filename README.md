@@ -115,6 +115,13 @@ car and VR hand gloves. Our first approach is using Bluetooth, it would work gre
 range but would not work if the car goes out of range. We are planning on using maybe a Wi-Fi
 hotspot, which could provide a better range but the tradeoff is higher latency. If I can create a
 way to connect them together, I think I would do a good job at that point.
+
+### Jack Riley
+[CS Ind Capstone.docx](https://github.com/shanereilly/VRacer/files/10137571/CS.Ind.Capstone.docx)
+
+### Shane Reilly
+[reillysp_capstone_assessment.docx](https://github.com/shanereilly/VRacer/files/10137577/reillysp_capstone_assessment.docx)
+
 ## Professional Biographies
 ### Shane Reilly
  
