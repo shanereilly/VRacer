@@ -58,24 +58,24 @@ Timeline
 | Build the RC car                                                        | Jack Riley    | 10/25/2022 | 11/10/2022 |
 | Conduct tests of vehicle                                                | Jack Riley    | 11/10/2022 | 12/1/2022  |
 | Research how to connect VR gloves with RC car                           | Hao Truong    | 10/1/2022  | 11/20/2022 |
-| Create a transmitter for VR gloves to transmit input to RC car          |               |            |            |
+| **Create a transmitter for VR gloves to transmit input to RC car**      |               |            |            |
 | Build a receiver for RC car                                             | Shane Reilly  | 10/1/2022  | 11/20/2022 |
-| Understand communication protocols between controller and RC car        |               |            |            |
-| Create a received to receive input from VR gloves on RC car             |               |            |            |
+| **Understand communication protocols between controller and RC car**    |               |            |            |
+| **Create a received to receive input from VR gloves on RC car**         |               |            |            |
 | Conduct tests of communication protocol                                 | Shane Reilly  | 11/20/2022 | 12/15/2022 |
 | Create list of potential hand gestures for controlling RC car           | Ryan Ritcher  | 10/1/2022  | 11/20/2022 |
 | Build VR gloves that convert hand gesture input to car movements output |               |            |            |
 | Conduct tests of gloves                                                 | Binh Luong    | 11/25/2022 | 12/15/2022 |
 | Test RC car                                                             |               |            |            |
 | Design 360 camera for RC car                                            | Binh Luong    | 12/15/2022 | 1/1/2022   |
-| Add 360-degree camera on RC car                                         |               |            |            |
+| **Add 360-degree camera on RC car**                                     |               |            |            |
 | Design a receiver for camera and VR google                              | Shane Reilly  | 12/15/2022 | 1/1/2023   |
 | Connect camera to VR goggle                                             |               |            |            |
 | Test camera control                                                     | Ryan Ritcher  | 11/20/2022 | 12/1/2022  |
 | Test camera                                                             |               |            |            |
 | Design a suspension system for smoother drive                           | Jack Riley    | 12/1/2022  | 1/1/2023   |
 | Configure haptic sensors for VR gloves                                  | Hao Truong    | 11/20/2022 | 12/20/2022 |
-| Add haptic to VR gloves for better feeling/control to RC car            |               |            |            |
+| **Add haptic to VR gloves for better feeling/control to RC car**        |               |            |            |
 | Configure hand gestures base on trials                                  | Ryan Ritcher  | 12/1/2022  | 12/20/2022 |
 | Document proper use of gloves and RC car                                | Ryan Ritcher  | 12/20/2022 | 1/15/2023  |
 
