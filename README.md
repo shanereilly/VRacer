@@ -80,7 +80,7 @@ Timeline
 | Document proper use of gloves and RC car                                | Ryan Ritcher  | 12/20/2022 | 1/15/2023  |
 
 ![Effort Matrix](effortMatrix.png)
-## ABET Concerns Essay (optional)
+
 ## PPT Slideshow (includes ABET Concerns)
 ## Self-Assessment Essays
 ### Hao Truong
