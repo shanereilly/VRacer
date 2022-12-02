@@ -207,8 +207,8 @@ Something involving web and app development in general.
 ### Ryan Richter
  
 #### Contact
-richter.w.ryan@gmail.com
-513-400-8615
+- richter.w.ryan@gmail.com  
+- 513-400-8615
  
  
 #### Co-op Experience
