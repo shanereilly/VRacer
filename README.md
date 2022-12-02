@@ -124,7 +124,7 @@ way to connect them together, I think I would do a good job at that point.
 [reillysp_capstone_assessment.docx](https://github.com/shanereilly/VRacer/files/10137577/reillysp_capstone_assessment.docx)
 
 ### Binh Luong
-[luongbt Capstone Assessment.pdf]()
+[luongbt Capstone Assessment.pdf](Homework_Essays/luongbt Capstone Assessment.pdf)
 
 ## Professional Biographies
 ### Shane Reilly
