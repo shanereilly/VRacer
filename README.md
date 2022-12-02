@@ -253,8 +253,6 @@ Anything within my field of study in computer engineering, whether it is hardwar
 | 1 | TRIBE Water Resistant cell phone armband case | 14.98 | 14.98 |
  
 ## Appendix
-include appropriate references, citations, links to code repositories, and meeting notes.
-there should be evidence justifying 45 hours of effort for each team member.
 
 ### Referenced Repositories
 
