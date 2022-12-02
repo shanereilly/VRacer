@@ -221,13 +221,46 @@ Non-technical: Work presentation, Sprint planning/execution
 #### Project Sought
 My team and I are seeking an app or web solution to a problem. Since we met at FOX Sports, we are potentially seeking something that can help us in our development at FOX. We worked a lot with sports data and odds, so perhaps something to do with that. 
 
+### Binh Luong
+ 
+#### Contact
+luongbt@mail.uc.edu
+513-400-0793
+ 
+ 
+#### Co-op Experience
+Backend QA Software Engineer, FOX Sports, January 2020 - Present
+
+Technical Skills: C#, JavaScript, Automated Testing with Postman and Selenium, Azure DevOps.
+
+Non-Technical: Research and Implementation
+ 
+#### Project Sought
+Anything within my field of study in computer engineering, whether it is hardware or software, I am interested in trying and learning new things.
+
     
 ## Budget
 | Quantity | Part | Price | Total |
 | :------: | :--: | :----:| :---: |
 | 3 | DEERC DE45 RC Car | 29.99 | 89.97 |
 | 1 | NRF24L01+PA+LNA Wireless Transceiver Module | 13.99 | 13.99 |
+| 1 | ESPS32S ESP32 Development Board | 14.99 | 14.99 |
+| 1 | TWTADE 10pcs single linear rotary seal amplifier potentiometers | 12.66 | 12.66 | |
+| 1 | 10 Pcs MG90S geared micro servo motors | 31.99 | 31.99 |
+| 1 | Qibaok crimping tool kit | 36.99 | 36.99 |
+| 1 | 50 Pcs Retractable badge reel clips | 16.95 | 16.95 |
+| 1 | Portable Chargers, 2-pack  | 29.96 | 29.96 |
+| 1 | TRIBE Water Resistant cell phone armband case | 14.98 | 14.98 |
  
 ## Appendix
 include appropriate references, citations, links to code repositories, and meeting notes.
 there should be evidence justifying 45 hours of effort for each team member.
+
+### Referenced Repositories
+
+![LucidVR Lucidgloves](https://github.com/LucidVR/lucidgloves)
+
+### Images
+
+![Image 1](Images/IMG01.jpg) ![Image 2](Images/IMG02.jpg) ![Image 3](Images/IMG03.jpg) ![Image 4](Images/IMG04.jpg) ![Image 5](Images/IMG05.jpg)
+![Image 6](Images/IMG06.jpg) ![Image 7](Images/IMG07.jpg) ![Image 8](Images/IMG08.jpg) ![Image 9](Images/IMG09.jpg)
